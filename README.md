@@ -27,8 +27,3 @@ To run the code in this repository, ensure you have the following installed:
 - TensorFlow
 - NumPy
 - Matplotlib
-
-You can install the required packages using the following command:
-
-```bash
-pip install -r requirements.txt
